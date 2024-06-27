@@ -1,0 +1,66 @@
+body {
+    background-color: #F7ECDe;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+
+.card {
+    margin-bottom: 20px;
+}
+
+
+.dotted-line {
+    border-top: 2px dotted #000000;
+   
+}
+
+
+
+
+.bookmark{
+
+    font-family: "Pacifico", cursive;
+font-size:50px ;
+font-weight:500 ;
+font-style:normal ;
+
+}
+
+.favorite{
+
+font-family: Righteous, cursive;
+font-weight: 500;
+font-size: 25px;
+font-style: normal;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
